@@ -10,6 +10,8 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;  
 }
+
+/* Start navigation-bar styles */
 .nav-main{
     background: #562EFF;
     width: 100%;
@@ -52,6 +54,8 @@ body{
     color: black;
     transition: 0.3s;
 }
+/* End navigation-bar */
+
 main{
     display: flex;
     flex-direction: column;
