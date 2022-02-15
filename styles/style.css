@@ -145,8 +145,7 @@ hr{
     grid-column-gap: 24px;
 }
  .course .course-banner img{
-    width: 224px;
-    height: 104px;
+    width: 100%;
  }
  .course-info{
      display: flex;
