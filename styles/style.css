@@ -144,6 +144,9 @@ hr{
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 24px;
 }
+.course{
+    margin-bottom: 30px;
+}
  .course .course-banner img{
     width: 100%;
  }
