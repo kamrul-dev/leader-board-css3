@@ -168,8 +168,9 @@ hr{
  .course-duration{
     background: #FEE5DF;
     color: #ED6B4F; 
-    border-radius: 14.6913px;
-    size: 100px;
+    border-radius:30px;
+    padding-left: 5px;
+    padding-right: 5px;
  }
  /*---------------------- 
     media queries
